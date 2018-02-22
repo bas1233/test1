@@ -5,8 +5,18 @@
     "description": "Data flow"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "bas"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "data flow",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "jerry"
   }
 }
